@@ -1,0 +1,24 @@
+A system which allows students and lecturers to view course works, assignments, their instructors feedback.
+Assume this is a management for 1 course, 1 tutor with 20 students.
+
+The system has 3 objects:
+Student:
+- Submit projects
+- View course works
+- Get feedback from Instructors
+
+Instructors:
+- Check their students' projects.
+- Communicate with students (feedback)
+- A list of his/her students
+
+Administrators:
+- Creating account for students & instructors
+- Groundwork for the other 2 modules
+
+Text.txt file: it contains:
+Student:
+- ID (format form: XXXXX, X is number) : int
+- Name: String
+- Feedback: String, saved in text file.
+- Course works (a file, project name)

@@ -1,0 +1,9 @@
+12345, Nguyen Van A, Project A, .
+15846, Ly Nguyen B, Project A, .
+36485, Nguyen Thi Huyen C, Project B, .
+11254, Truong Thi C, Project C, .
+33548, Ly Thi D, Project C, .
+24588, Ly Huyen E, Project A, .
+12552, Le T, Project B, .
+13134, Huynh Van C, Project A, .
+15223, Nguyen Thi Thu H, Project B, .
