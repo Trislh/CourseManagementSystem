@@ -8,9 +8,10 @@ Student:
 - Get feedback from Instructors
 
 Instructors:
-- Check their students' projects.
-- Communicate with students (feedback)
-- A list of his/her students
+- Search for student's profile.
+- Check their students' profiles.
+- Give feedbacks.
+- Print his/her student's list.
 
 Administrators:
 - Creating account for students & instructors
